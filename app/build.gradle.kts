@@ -55,4 +55,12 @@ dependencies {
     implementation("androidx.navigation:navigation-fragment-ktx:$navVersion")
     implementation("androidx.navigation:navigation-ui-ktx:$navVersion")
 
+    //dotsIndicator
+    implementation("com.tbuonomo:dotsindicator:5.0")
+
+    //lottieFiles
+    val lottieVersion = "3.4.0"
+    implementation ("com.airbnb.android:lottie:$lottieVersion")
+
+
 }
